@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding:20px;
+    /*display: grid;*/
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+    margin-left: 33%;
+}
+#main{
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin-bottom: 10px;
+    line-height: 3.5;
+}
+button{
+    background-color: lightblue;
+
+}
